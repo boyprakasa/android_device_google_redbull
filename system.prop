@@ -1,4 +1,11 @@
 # System properties for Google Pixel 5
 ro.product.marketname=Google Pixel 5
-ro.voltage.soc=Snapdragon 765G 5G
-ro.voltage.camera=12.2MP + 16MP
+ro.mist.device.name=Pixel 5
+ro.mist.soc=Snapdragon® 765G 5G
+
+ro.mist.platform=SM7250-AB
+ro.mist.screen=6.0' OLED
+ro.mist.display=1080 x 2340, 90 hz
+ro.mist.camera=12.2MP + 16MP
+ro.mist.front=8MP
+ro.mist.battery=4080mah
